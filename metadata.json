@@ -1,0 +1,6 @@
+{
+  "name": "ExcuseCheck",
+  "description": "How Weird Is Your Excuse? A playful AI-powered judge that scores excuses on weirdness, believability, creativity, and comedy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
